@@ -1,0 +1,143 @@
+Cmp-Mod V01 Created by CvPcb (2013-jul-07)-stable date = Wed 19 Nov 2014 16:46:49 CET
+
+BeginCmp
+TimeStamp = /546CB7C0;
+Reference = C1;
+ValeurCmp = 10uF;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /54650C0A;
+Reference = J1;
+ValeurCmp = 4_PIN_HDR;
+IdModule  = KF120-4P;
+EndCmp
+
+BeginCmp
+TimeStamp = /54650C17;
+Reference = J2;
+ValeurCmp = 4_PIN_HDR;
+IdModule  = KF120-4P;
+EndCmp
+
+BeginCmp
+TimeStamp = /54650C1D;
+Reference = J3;
+ValeurCmp = 4_PIN_HDR;
+IdModule  = KF120-4P;
+EndCmp
+
+BeginCmp
+TimeStamp = /54650C23;
+Reference = J4;
+ValeurCmp = 4_PIN_HDR;
+IdModule  = KF120-4P;
+EndCmp
+
+BeginCmp
+TimeStamp = /54650C3D;
+Reference = J5;
+ValeurCmp = 4_PIN_HDR;
+IdModule  = KF120-4P;
+EndCmp
+
+BeginCmp
+TimeStamp = /546B86B1;
+Reference = J6;
+ValeurCmp = 8_PIN_HDR;
+IdModule  = SIL-7;
+EndCmp
+
+BeginCmp
+TimeStamp = /54651426;
+Reference = J7;
+ValeurCmp = BARREL_JACK;
+IdModule  = BARREL_JACK;
+EndCmp
+
+BeginCmp
+TimeStamp = /54686C94;
+Reference = Q1;
+ValeurCmp = IRLB8721PBF;
+IdModule  = TO220_VERT;
+EndCmp
+
+BeginCmp
+TimeStamp = /54686CF6;
+Reference = Q2;
+ValeurCmp = IRLB8721PBF;
+IdModule  = TO220_VERT;
+EndCmp
+
+BeginCmp
+TimeStamp = /54686D07;
+Reference = Q3;
+ValeurCmp = IRLB8721PBF;
+IdModule  = TO220_VERT;
+EndCmp
+
+BeginCmp
+TimeStamp = /54686D1D;
+Reference = Q4;
+ValeurCmp = IRLB8721PBF;
+IdModule  = TO220_VERT;
+EndCmp
+
+BeginCmp
+TimeStamp = /54686D0D;
+Reference = Q5;
+ValeurCmp = IRLB8721PBF;
+IdModule  = TO220_VERT;
+EndCmp
+
+BeginCmp
+TimeStamp = /5464F800;
+Reference = R1;
+ValeurCmp = 330R;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /5464F1B9;
+Reference = R2;
+ValeurCmp = 330R;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /5464F590;
+Reference = R3;
+ValeurCmp = 330R;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /5464F28C;
+Reference = R4;
+ValeurCmp = 330R;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /5464F4B6;
+Reference = R5;
+ValeurCmp = 330R;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /5464DAFC;
+Reference = R6;
+ValeurCmp = 330R;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /5464D75C;
+Reference = U2;
+ValeurCmp = 74HCT259;
+IdModule  = DIP-16__300;
+EndCmp
+
+EndListe

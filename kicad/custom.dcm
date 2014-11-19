@@ -1,0 +1,36 @@
+EESchema-DOCLIB  Version 2.0  Date: Tue 18 Nov 2014 18:45:43 CET
+#
+$CMP 4_PIN_HDR
+D Adafruit 12mm LED Pixels header
+K Jack 4-pin 0.1"
+$ENDCMP
+#
+$CMP 7_PIN_HDR
+D 7 pin header
+K CONN
+$ENDCMP
+#
+$CMP 8_PIN_HDR
+D 7 pin header
+K CONN
+$ENDCMP
+#
+$CMP 74HC259
+D High-speed 8-bit addressable latch, CMOS levels.
+K latch CMOS
+F http://www.nxp.com/documents/data_sheet/74HC_HCT259.pdf
+$ENDCMP
+#
+$CMP 74HCT259
+D High-speed 8-bit addressable latch, TTL levels.
+K latch TTL
+F http://www.nxp.com/documents/data_sheet/74HC_HCT259.pdf
+$ENDCMP
+#
+$CMP IRLB8721PbF
+D N-channel power MOSFET - 30V / 60A
+K N-Channel MOSFET
+F https://www.adafruit.com/datasheets/irlb8721pbf.pdf
+$ENDCMP
+#
+#End Doc Library
